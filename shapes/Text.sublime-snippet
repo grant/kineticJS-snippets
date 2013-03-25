@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.Text({
+	x: ${1:0},
+	y: ${2:0},
+	text: ${3:'Sample Text'},
+	fontSize: ${4:18},
+	fontFamily: ${5:'Helvetica'},
+	fill: ${6:'red'},
+	align: ${7:'center'},
+	${8:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>Text</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.Text</description>
+</snippet>

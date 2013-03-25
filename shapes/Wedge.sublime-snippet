@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.Wedge({
+	x: ${1:0},
+	y: ${2:0},
+	radius: ${3:100},
+	angleDeg: ${4:60},
+	rotationDeg: ${5:-120},
+	fill: ${6:'red'},
+	stroke: ${7:'black'},
+	strokeWidth: ${8:4},
+	${9:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>Wedge</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.Wedge</description>
+</snippet>

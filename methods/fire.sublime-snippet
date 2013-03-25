@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+fire('${1:click}');$0
+]]></content>
+	<tabTrigger>fire</tabTrigger>
+	<scope>source.js</scope>
+	<description>Node.fire(typeStr)</description>
+</snippet>

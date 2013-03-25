@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+callback: function(${1:dataUrl}) {
+	${2:// do stuff with dataUrl}
+}$0
+]]></content>
+	<tabTrigger>callback</tabTrigger>
+	<scope>source.js</scope>
+	<description>Node.callback(function)</description>
+</snippet>

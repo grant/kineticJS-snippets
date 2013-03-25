@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+on('${1:click}', function(${2:evt}) {
+	${3:// do stuff here...}
+});$0
+]]></content>
+	<tabTrigger>on</tabTrigger>
+	<scope>source.js</scope>
+	<description>Node.on(config)</description>
+</snippet>

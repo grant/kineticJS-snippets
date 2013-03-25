@@ -1,0 +1,30 @@
+{
+	"scope": "source.js",
+
+	"completions": [
+		"Kinetic",
+		"Kinetic.Filters.Brighten",
+		"Kinetic.Filters.Grayscale",
+		"Kinetic.Filters.Invert",
+		"hide()",
+		"show()",
+		"drawHit()",
+		"cancelBubble",
+		"shape",
+		"draggable",
+		"moveToTop()",
+		"moveToBottom()",
+		"moveUp()",
+		"moveDown()",
+		"start();",
+		"stop()",
+		"resume();",
+		"getWidth()",
+		"getHeight()",
+		"mimeType",
+		"quality",
+		"toJSON()",
+		"draw()",
+		"isRunning()"
+	]
+}

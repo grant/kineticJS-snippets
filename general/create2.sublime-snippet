@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kinetic.Node.create(${1:shapeJson});$0
+]]></content>
+	<tabTrigger>create</tabTrigger>
+	<scope>source.js</scope>
+	<description>Node.create(JSON)</description>
+</snippet>

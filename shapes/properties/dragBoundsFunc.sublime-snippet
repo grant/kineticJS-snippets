@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+dragBoundsFunc: function(pos) {
+	return {
+		x: ${1:pos.x},
+		y: ${2:this.getAbsolutePosition().y}
+	};
+}$0
+]]></content>
+	<tabTrigger>dragBoundsFunc</tabTrigger>
+	<scope>source.js</scope>
+	<description>Node.dragBoundsFunc(function)</description>
+</snippet>

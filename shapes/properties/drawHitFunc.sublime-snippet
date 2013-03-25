@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+drawHitFunc: function(canvas) {
+	var context = canvas.getContext();
+	${1:// draw hit region
+	context.beginPath();
+	context.arc(0, 0, this.getOuterRadius() + 10, 0, Math.PI * 2, true);
+	context.closePath();
+	canvas.fillStroke(this);}
+}$0
+]]></content>
+	<tabTrigger>drawHitFunc</tabTrigger>
+	<scope>source.js</scope>
+	<description>drawHitFunc</description>
+</snippet>

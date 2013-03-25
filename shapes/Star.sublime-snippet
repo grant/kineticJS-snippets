@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.Star({
+	x: ${1:0},
+	y: ${2:0},
+	numPoints: ${3:6},
+	innerRadius: ${4:50},
+	outerRadius: ${5:100},
+	fill: '${6:red}',
+	stroke: '${7:black}',
+	strokeWidth: ${8:4},
+	${9:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>Star</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.Star</description>
+</snippet>

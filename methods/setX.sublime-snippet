@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+setX(${1:100});$0
+]]></content>
+	<tabTrigger>setX</tabTrigger>
+	<scope>source.js</scope>
+	<description>Node.setX(Number)</description>
+</snippet>

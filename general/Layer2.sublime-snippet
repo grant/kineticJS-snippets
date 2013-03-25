@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.Layer();$0
+]]></content>
+	<tabTrigger>Layer</tabTrigger>
+	<scope>source.js</scope>
+	<description>Layer</description>
+</snippet>

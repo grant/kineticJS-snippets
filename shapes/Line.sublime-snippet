@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.Line({
+	points: [$1],
+	stroke: ${2:'red'},
+	strokeWidth: ${3:4},
+	lineCap: '${4:round}',
+	lineJoin: '${5:round}',
+	${10:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>Line</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.Line</description>
+</snippet>

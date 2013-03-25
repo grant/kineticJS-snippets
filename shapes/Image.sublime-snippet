@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.Image({
+	x: ${1:0},
+	y: ${2:0},
+	image: ${3:// image object},
+	width: ${4:100},
+	height: ${5:100},
+	${6:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>Image</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.Image</description>
+</snippet>

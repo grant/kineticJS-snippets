@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.RegularPolygon({
+	x: ${1:0},
+	y: ${2:0},
+	sides: ${3:6},
+	radius: ${4:100},
+	fill: '${5:red}',
+	stroke: '${6:black}',
+	strokeWidth: ${7:4},
+	${8:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>RegularPolygon</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.RegularPolygon</description>
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.Circle({
+	x: ${1:0},
+	y: ${2:0},
+	radius: ${3:100},
+	fill: ${4:'red'},
+	stroke: ${5:'black'},
+	strokeWidth: ${6:4},
+	${7:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>Circle</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.Circle</description>
+</snippet>

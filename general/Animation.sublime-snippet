@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+new Animation(function(frame) {
+	var time = frame.time,
+		timeDiff = frame.timeDiff,
+		frameRate = frame.frameRate;
+
+	${1:// update stuff}
+}, ${2:layer});$0
+]]></content>
+	<tabTrigger>Animation</tabTrigger>
+	<scope>source.js</scope>
+	<description>Animation(function, node)</description>
+</snippet>

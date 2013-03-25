@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+createImageHitRegion(function() {
+	${1:// hit function implementation}
+});$0
+]]></content>
+	<tabTrigger>createImageHitRegion</tabTrigger>
+	<scope>source.js</scope>
+	<description>Shape.createImageHitRegion(function)</description>
+</snippet>

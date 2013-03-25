@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.TextPath({
+	x: ${1:0},
+	y: ${2:0},
+	text: '${3:Sample Text}',
+	data: ${4:// SVG data string},
+	fill: '${5:red}',
+	fontSize: '${6:18}',
+	fontFamily: '${7:Helvetica}',
+	${8:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>TextPath</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.TextPath</description>
+</snippet>

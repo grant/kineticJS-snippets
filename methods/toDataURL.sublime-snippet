@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+toDataURL({
+	callback: function(${1:dataUrl}) {
+		${2:// do stuff with dataUrl}
+	}$3
+});$0]]></content>
+	<tabTrigger>toDataURL</tabTrigger>
+	<scope>source.js</scope>
+	<description>Stage.toDataURL(config)</description>
+</snippet>

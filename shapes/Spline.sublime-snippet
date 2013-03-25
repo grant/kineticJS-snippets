@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.Spline({
+	points: [$1],
+	stroke: '${2:red}',
+	strokeWidth: ${3:4},
+	lineCap: '${4:round}',
+	tension: ${5:1},
+	${8:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>Spline</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.Spline</description>
+</snippet>

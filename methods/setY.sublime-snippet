@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+setY(${1:100});$0
+]]></content>
+	<tabTrigger>setY</tabTrigger>
+	<scope>source.js</scope>
+	<description>Node.setY(Number)</description>
+</snippet>

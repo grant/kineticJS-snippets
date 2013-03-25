@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+setStroke('${1:black}');$0
+]]></content>
+	<tabTrigger>setStroke</tabTrigger>
+	<scope>source.js</scope>
+	<description>Node.setStroke(String)</description>
+</snippet>

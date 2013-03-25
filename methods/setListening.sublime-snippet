@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+setListening(${1:true});$0
+]]></content>
+	<tabTrigger>setListening</tabTrigger>
+	<scope>source.js</scope>
+	<description>Node.setListening(boolean)</description>
+</snippet>

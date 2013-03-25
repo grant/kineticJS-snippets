@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+setZIndex(${1:5});$0
+]]></content>
+	<tabTrigger>setZIndex</tabTrigger>
+	<scope>source.js</scope>
+	<description>Node.setZIndex(Integer)</description>
+</snippet>

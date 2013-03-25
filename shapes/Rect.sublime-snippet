@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.Rect({
+	x: ${1:0},
+	y: ${2:0},
+	width: ${3:100},
+	height: ${4:100},
+	fill: ${5:'red'},
+	stroke: ${6:'black'},
+	strokeWidth: ${7:4},
+	${8:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>Rect</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.Rect</description>
+</snippet>

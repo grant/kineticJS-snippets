@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.Path({
+	x: ${1:0},
+	y: ${2:0},
+	data: ${3:// SVG data string},
+	fill: '${4:red}',
+	stroke: '${5:black}',
+	strokeWidth: ${6:4},
+	${7:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>Path</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.Path</description>
+</snippet>

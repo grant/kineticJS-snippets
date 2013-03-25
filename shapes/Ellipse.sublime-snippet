@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.Ellipse({
+	x: ${1:0},
+	y: ${2:0},
+	radius: {
+		x: ${3:100},
+		y: ${4:100}
+	},
+	fill: ${5:'red'},
+	stroke: ${6:'black'},
+	strokeWidth: ${7:4},
+	${8:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>Ellipse</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.Ellipse</description>
+</snippet>

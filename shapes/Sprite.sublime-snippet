@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.Sprite({
+	x: ${1:0},
+	y: ${2:0},
+	image: ${3:new Image()},
+	animation: ${4:// animation key},
+	animations: ${5:// animation map},
+	frameRate: ${6:30},
+	${7:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>Sprite</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.Sprite</description>
+</snippet>

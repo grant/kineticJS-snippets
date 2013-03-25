@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.Stage({
+	container: '${1:containerDiv}',
+	width: ${2:480},
+	height: ${3:320},
+	${4:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>Stage</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.Stage</description>
+</snippet>

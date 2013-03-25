@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+add(${1:layer|group|node});$0
+]]></content>
+	<tabTrigger>add</tabTrigger>
+	<scope>source.js</scope>
+	<description>Container.add(child)</description>
+</snippet>

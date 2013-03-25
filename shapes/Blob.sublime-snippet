@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.Blob({
+	points: [$1],
+	stroke: '${2:black}',
+	strokeWidth: ${3:4},
+	fill: '${4:red}',
+	tension: ${5:1},
+	${6:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>Blob</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.Blob</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+setDraggable(${1:true});$0
+]]></content>
+	<tabTrigger>setDraggable</tabTrigger>
+	<scope>source.js</scope>
+	<description>Node.setDraggable(boolean)</description>
+</snippet>

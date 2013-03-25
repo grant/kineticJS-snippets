@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+setScale(${1:x and y scale});$0
+]]></content>
+	<tabTrigger>setScale</tabTrigger>
+	<scope>source.js</scope>
+	<description>Node.setScale(x and y)</description>
+</snippet>

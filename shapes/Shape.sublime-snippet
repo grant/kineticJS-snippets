@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+new Kinetic.Shape({
+	drawFunc: function(canvas) {
+		var context = canvas.getContext();
+		${1:context.beginPath();
+		context.moveTo(200, 50);
+		context.lineTo(420, 80);
+		context.quadraticCurveTo(300, 100, 260, 170);
+		context.closePath();
+		canvas.fillStroke(this);}
+	},
+	fill: '${2:red}',
+	stroke: '${3:black}',
+	strokeWidth: ${4:4},
+	${6:// other properties... }
+})$0
+]]></content>
+	<tabTrigger>Shape</tabTrigger>
+	<scope>source.js</scope>
+	<description>Kinetic.Shape</description>
+</snippet>

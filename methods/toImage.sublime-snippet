@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+toImage({
+	width: ${1:100},
+	height: ${2:100},
+	callback: function(${3:img}) {
+		${4:var image = new Kinetic.Image({
+			image: $3
+		\}}
+	},
+	${5:// other properties...}
+});$0
+]]></content>
+	<tabTrigger>toImage</tabTrigger>
+	<scope>source.js</scope>
+	<description>Node.toImage(config)</description>
+</snippet>

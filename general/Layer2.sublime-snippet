@@ -4,5 +4,5 @@ new Kinetic.Layer();$0
 ]]></content>
 	<tabTrigger>Layer</tabTrigger>
 	<scope>source.js</scope>
-	<description>Layer</description>
+	<description>Kinetic.Layer</description>
 </snippet>

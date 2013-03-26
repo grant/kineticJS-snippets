@@ -11,5 +11,5 @@ drawHitFunc: function(canvas) {
 ]]></content>
 	<tabTrigger>drawHitFunc</tabTrigger>
 	<scope>source.js</scope>
-	<description>drawHitFunc</description>
+	<description>Shape.drawHitFunc</description>
 </snippet>

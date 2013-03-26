@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-new Animation(function(frame) {
+new Kinetic.Animation(function(frame) {
 	var time = frame.time,
 		timeDiff = frame.timeDiff,
 		frameRate = frame.frameRate;
@@ -10,5 +10,5 @@ new Animation(function(frame) {
 ]]></content>
 	<tabTrigger>Animation</tabTrigger>
 	<scope>source.js</scope>
-	<description>Animation(function, node)</description>
+	<description>Kinetic.Animation(function, node)</description>
 </snippet>

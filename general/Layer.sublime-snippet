@@ -10,5 +10,5 @@ new Kinetic.Layer(${1:{
 ]]></content>
 	<tabTrigger>Layer</tabTrigger>
 	<scope>source.js</scope>
-	<description>Layer(config)</description>
+	<description>Kinetic.Layer(config)</description>
 </snippet>

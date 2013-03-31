@@ -25,6 +25,7 @@
 		"quality",
 		"toJSON()",
 		"draw()",
-		"isRunning()"
+		"isRunning()",
+		"getScale()"
 	]
 }

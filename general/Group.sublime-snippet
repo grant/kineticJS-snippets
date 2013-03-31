@@ -1,12 +1,8 @@
 <snippet>
 	<content><![CDATA[
-new Kinetic.Group({
-	x: ${1:0},
-	y: ${2:0},
-	${3:// other properties... }
-});$0
+new Kinetic.Group();$0
 ]]></content>
 	<tabTrigger>Group</tabTrigger>
 	<scope>source.js</scope>
-	<description>Kinetic.Group(config)</description>
+	<description>Kinetic.Group()</description>
 </snippet>

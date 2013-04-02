@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+getAttr('${1:attribute}');$0
+]]></content>
+	<tabTrigger>getAttr</tabTrigger>
+	<scope>source.js</scope>
+	<description>Node.getAttr(attribute)</description>
+</snippet>

@@ -48,6 +48,6 @@ Grant Timmerman
 License
 -------
 
-Copyright 2013, Grant Timmerman  <granttimmerman@gmail.com>
+Copyright 2013, Grant Timmerman
 
 MIT
